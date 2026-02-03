@@ -5,11 +5,6 @@ that I made and have added a little bit to.
 
 tuffclient here [https://adenrobinson57-pixel.github.io/tuffclient1.12-2/]
 another tuffclient [https://adenrobinson57-pixel.github.io/tuffclient1.12-1/]
-eaglercraft 1.12 [placeholder will add later]
-eaglercraft 1.8 [placeholder will add later]
-eaglerforge 1.12 [placeholder will add later]
-eaglerforge 1.8 [placeholder will add later]
-autoclient indev version [placeholder will add later]
 controler enabled tuffclient [placeholder will add later]
 my game doc [https://docs.google.com/document/d/1PWSi2gvlzYHYA1HgR7yN58VrRN9TT0npeU5E5jmkiP4/edit?tab=t.0]
 Sorry for all the placeholders I am just making some formatting. Also i do not fully understand how to formatt these so it may look bad.
